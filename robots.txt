@@ -2,4 +2,4 @@ User-agent: *
 
 Allow: /
 
-Sitemap: https://ranjanpaudel31.com.np/sitemap.xml
+Sitemap: https://www.ranjanpaudel31.com.np/sitemap.xml
